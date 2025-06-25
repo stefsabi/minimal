@@ -3,7 +3,7 @@ layout: post
 title: "Markel"
 categories: junk
 author:
-- Multi-decade compounder with remarkable culture and attractive returns
+- Mariya Messerli
 meta: "Springfield"
 modified_date: 2016-05-27
 ---
