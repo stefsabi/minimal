@@ -3,14 +3,12 @@ layout: post
 title: "Markel"
 categories: junk
 author:
-- Bart Simpson
-- Nelson Mandela Muntz
+- Multi-decade compounder with remarkable culture and attractive returns
 meta: "Springfield"
 modified_date: 2016-05-27
 ---
 
 # Investment thesis
-
 Markel Group Inc. (MKL) is a financial holding, which runs US Property & Casualty (P&C) specialty insurance operations and performs investments in a concentrated portfolio of wholly or partially owned publicly traded and private companies. The more accurate definition of the company according to its current CEO Tom Gayner is a ‘family office, which happened to be a public company’.
 
 MKL’s business model was largely inspired by Berkshire Hathaway, whereby a float from insurance operations serves as a ‘rocket fuel’ to invest elsewhere. There are three economic engines, which are placed to work for MKL: Insurance, Investments (mainly bonds and common stock) and Markel Ventures (a collection of fully and partially owned private and public industrial and service businesses). 
