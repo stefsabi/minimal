@@ -24,7 +24,8 @@ MKL’s business model was largely inspired by Berkshire Hathaway, whereby a flo
 All in all, MKL emerged as an economic engine with autonomy-trust culture and diversified operations, which provide the dual benefit of generating underwriting profit and superior investment returns. Similar to some other conglomerates, the MKL’s value exceeds the sum of its parts.
 
 ## Multi-decade compounder
-Markel started in 1930, after two generations of family ownership, the company went public in 1986 priced at ca. $8 with market cap of ca. $30m. Over time, the company has transformed itself from a small local insurer of jitney buses to the top three largest US surplus insurance business with some international operations (see Market Segment Report - U.S. Surplus Lines, A.M. Best). 
+Markel started in 1930, after two generations of family ownership, the company went public in 1986 priced at ca. $8 with market cap of ca. $30m. Over time, the company has transformed itself from a small local insurer of jitney buses to the top three largest US surplus insurance business with some international operations (see [Market Segment Report - U.S. Surplus Lines, A.M. Best](https://www3.ambest.com/ambv/sales/bwpurchase.aspx?record_code=330137&AltSrc=22).
+
 
 https://www3.ambest.com/ambv/sales/bwpurchase.aspx?record_code=330137&AltSrc=22
 
