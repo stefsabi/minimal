@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This post demonstrates post content styles"
+title: "Markel"
 categories: junk
 author:
 - Bart Simpson
@@ -9,17 +9,24 @@ meta: "Springfield"
 modified_date: 2016-05-27
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+# Investment thesis
 
-## Some great heading (h2)
+Markel Group Inc. (MKL) is a financial holding, which runs US Property & Casualty (P&C) specialty insurance operations and performs investments in a concentrated portfolio of wholly or partially owned publicly traded and private companies. The more accurate definition of the company according to its current CEO Tom Gayner is a ‘family office, which happened to be a public company’.
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
+MKL’s business model was largely inspired by Berkshire Hathaway, whereby a float from insurance operations serves as a ‘rocket fuel’ to invest elsewhere. There are three economic engines, which are placed to work for MKL: Insurance, Investments (mainly bonds and common stock) and Markel Ventures (a collection of fully and partially owned private and public industrial and service businesses). 
 
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+### Summary:
+  - Multi-decade compounder with consistent underwriting and investment results.
+  - Remarkable culture embracing the ‘win-win-win’ values.
+  - Management of high skill and integrity.
+  - Fair price.
 
-## Another great heading (h2)
+All in all, MKL emerged as an economic engine with autonomy-trust culture and diversified operations, which provide the dual benefit of generating underwriting profit and superior investment returns. Similar to some other conglomerates, the MKL’s value exceeds the sum of its parts.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+## Multi-decade compounder
+Markel started in 1930, after two generations of family ownership, the company went public in 1986 priced at ca. $8 with market cap of ca. $30m. Over time, the company has transformed itself from a small local insurer of jitney buses to the top three largest US surplus insurance business with some international operations (see Market Segment Report - U.S. Surplus Lines, A.M. Best). 
+
+https://www3.ambest.com/ambv/sales/bwpurchase.aspx?record_code=330137&AltSrc=22
 
 ### Some great subheading (h3)
 
