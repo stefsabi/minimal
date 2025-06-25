@@ -26,6 +26,7 @@ All in all, MKL emerged as an economic engine with autonomy-trust culture and di
 ## Multi-decade compounder
 Markel started in 1930, after two generations of family ownership, the company went public in 1986 priced at ca. $8 with market cap of ca. $30m. Over time, the company has transformed itself from a small local insurer of jitney buses to the top three largest US surplus insurance business with some international operations (see [Market Segment Report - U.S. Surplus Lines, A.M. Best](https://www3.ambest.com/ambv/sales/bwpurchase.aspx?record_code=330137&AltSrc=22).
 
+![Alt text for accessibility](/assets/images/report-cover.jpg)
 
 https://www3.ambest.com/ambv/sales/bwpurchase.aspx?record_code=330137&AltSrc=22
 
