@@ -28,7 +28,9 @@ Markel started in 1930, after two generations of family ownership, the company w
 
 ![Image](/assets/img/941237cc-7319-413d-aa14-c7e5a29f36bf_977x638.png)
 
-https://www3.ambest.com/ambv/sales/bwpurchase.aspx?record_code=330137&AltSrc=22
+By year-end 2023, market cap reached close to $19bn, that is an impressive compound annual return of ca. 14% since the IPO. As outlined in the below, MKL managed to outperform the market by 3%-pts since inception.
+
+In the past 5 years value creation slowed down facing challenging years of the Covid-19 pandemic, above average Nat Cat activity, financial market volatility and inadequate pricing cycle in some US Casualty lines exacerbated by rising social and economic inflation.
 
 ### Some great subheading (h3)
 
