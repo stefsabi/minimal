@@ -29,29 +29,29 @@ In the past 5 years value creation slowed down facing challenging years of the C
 
 MKL operates in the US specialty market, which implies underwriting of an admitted risk and hard-to-place non-standard risk (E&S, or Excess & Surplus). The latter one is not assumed by a traditional or so called admitted market. The regulatory framework affords E&S businesses greater flexibility in setting premium rates and terms for its policies compared to the admitted market. As a result, E&S insurers like MKL compete based on value-added considerations such as expertise, availability and service rather than price only. In the past years E&S market has been growing at a high pace with CAGR of ca. 20% to ca. $86bn, which many consider as the ‘golden age’ for E&S insurers. The overall E&S industry is expected to further grow with a double-digit rate, at much higher pace of the total P&C market. The key drivers are technological advancements, economic growth and rising complexity of the current and new emerging risks.
 
-![Image](/assets/img/0b5d7ed6-da16-4bf9-baea-b49fc896157e_976x638.png)
+![Image](assets/img/0b5d7ed6-da16-4bf9-baea-b49fc896157e_976x638.png)
 
 Source: S&P Global Inc.
 
 In 2022, MKL was the 3rd largest US specialty insurer and the 41st largest US reinsurer (as measured by premium volume by S&P Global and A.M. Best). In 2022, MKL’s combined net premiums earned amounted to $7.6bn, growing at an annualised growth rate of 13% in the past 10 years. 
 
-![Image](/assets/img/c2315d0b-8a69-462a-97f8-f0ce33cf64b2_977x638.png)
+![Image](assets/img/c2315d0b-8a69-462a-97f8-f0ce33cf64b2_977x638.png)
 
 More than half of it is attributable to the Casualty business (mainly Professional Liability and General Liability lines), which tends to exhibit higher uncertainty towards pricing and loss reserve adequacy since claims are paid out over long period of time, i.e. multiple years. Also, this long-tail business is sensitive to macroeconomic factors like interest rates and economic inflation as well as social trends (i.e. social inflation). Despite of higher complexity, long-tail business comes with a benefit of longer periods of investment, which is supportive to the MKL’s business model.
 
 How strong is the company’s underwriting quality? Since 2013, MKL earned underwriting profit of ca. $2.6bn with an average combined ratio of ca. 95%, which is ca. 5%-pts below the US P&C industry. 
 
-![Image](/assets/img/f9bbbe65-a289-4176-90ca-ed1c7d44499b_976x638.png)
+![Image](assets/img/f9bbbe65-a289-4176-90ca-ed1c7d44499b_976x638.png)
 
 In other words, MKL made 5 cents per dollar of insurance premiums after paying all operating expenses, which is on top of money it held and could invest with market-beating returns.
 
 Since 2005, there were only three calendar years (2017, 2011 and 2005) with a combined ratio of above 100%, all driven by the above average Nat Cat events. Indeed, this is a remarkable result.
 
-![Image](/assets/img/06966fc7-e7d0-4619-a860-dc5ad4d947be_977x638.png)
+![Image](assets/img/06966fc7-e7d0-4619-a860-dc5ad4d947be_977x638.png)
 
 How prudent are reserving practices at MKL? The main methodologies to determine loss reserves estimate (e.g. Chain Ladder, Cape Cod, Bornhuetter-Ferguson, Benktander, etc.) are designed to avoid volatility by ‘bleeding in’ news, good or bad, over time and not at once. As a result of this, loss reserves development tends to have memory. The MKL’s prior year loss reserves development was favourable in each consecutive year over the past 10 years, with total of $4.8bn of reserve releases (ca. 10% of annual earned premiums).
 
-![Image](/assets/img/cafe7588-89c8-41c9-a090-8d12c8c508b9_977x639.png)
+![Image](assets/img/cafe7588-89c8-41c9-a090-8d12c8c508b9_977x639.png)
 
 To put it simply, MKL over-reserved in prior years underpinned by high prudency of loss reserving and management discipline. To note, MKL’s favourable loss reserve releases reduced in the past years, in particular applicable for accident years 2016-2019. This is mainly driven by the US Casualty industry-wide challenges from the rising social and economic inflation. The final outcome of which is yet to be seen.
 
@@ -69,7 +69,7 @@ Let’s turn to the investment side of MKL business. Similar to traditional insu
 
 Remarkably, since IPO in 1986 MKL’s equity portfolio outperformed the S&P 500 total return index. See the annual investment return breakdown by asset category in the table below.
 
-![Image](/assets/img/db5b4b45-4ec5-49d0-b8a0-69ed9e261429_601x165.jpg)
+![Image](assets/img/db5b4b45-4ec5-49d0-b8a0-69ed9e261429_601x165.jpg)
 
 #### Markel Ventures
 Since 2005, MKL started allocating capital to a collection of a majority owned private (mostly) and public industrial and service companies operating in various industries. Products and services include house plants (Costa Farms), building products (Lansing Building Products), crane rental service (Buckner Heavy Lift Cranes), pre-cast concrete (Metromont), concierge medical services (Partner MD), fire protection (VSC Fire & Security), IT consulting (CapTech), luxury bags (Brahmin), dredges (Ellicott Dredges), flooring (Havco), and more. Similar to Berkshire Hathaway, MKL prefers to invest in owner-founder lead operators with leading positions in niche markets and long-term orientation. It aims to offer a ‘permanent home’ to private businesses, which choose to join MKL. 
