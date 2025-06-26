@@ -8,7 +8,7 @@ permalink: /contact/
 
 <p>If you’d like to get in touch, fill out the form below and I’ll get back to you shortly.</p>
 
-<form action="https://formsubmit.io/send/m@protonmail.com" method="POST" class="contact-form">
+<form action="https://formsubmit.io/send/mrvision@protonmail.ch" method="POST" class="contact-form">
   <input name="_formsubmit_id" type="text" style="display:none"> <!-- spam honeypot -->
 
   <div class="form-row">
@@ -34,3 +34,5 @@ permalink: /contact/
 
   <button type="submit">Get in touch</button>
 </form>
+
+<input type="hidden" name="_redirect" value="/thank-you/" />
