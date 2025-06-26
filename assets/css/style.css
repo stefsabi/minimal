@@ -175,3 +175,12 @@ main {
     flex-direction: column;
   }
 }
+
+
+article img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1em auto; /* optional, zentriert das Bild */
+  box-sizing: border-box;
+}
