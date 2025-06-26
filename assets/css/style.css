@@ -1,16 +1,26 @@
-/* Reset */
+
+
+
+
+
+
+
+
+/* Reset and base */
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
-  background-color: #f9f9f9;
+  font-family: 'Segoe UI', Roboto, sans-serif;
+  background-color: #f4f4f7;
+  color: #333;
 }
 
 .container {
   max-width: 900px;
   margin: 40px auto;
   background: #fff;
-  padding: 20px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  padding: 24px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+  border-radius: 12px;
 }
 
 /* Navbar */
@@ -18,49 +28,49 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #333;
-  padding: 14px 20px;
-  position: relative;
+  background-color: #222;
+  padding: 16px 24px;
+  border-radius: 8px;
 }
 
 .logo {
-  color: white;
-  font-weight: bold;
-  font-size: 1.2rem;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 1.3rem;
+  letter-spacing: 0.5px;
 }
 
 .menu-toggle {
-  color: white;
-  font-size: 24px;
-  cursor: pointer;
   display: none;
+  font-size: 28px;
+  color: #ffffff;
+  cursor: pointer;
 }
 
+/* Nav links */
 .nav-links {
   list-style: none;
   display: flex;
-  gap: 10px;
+  gap: 12px;
   margin: 0;
   padding: 0;
 }
 
-.nav-links li {
-  margin: 0;
-}
-
-.nav-links a {
+.nav-links li a {
   text-decoration: none;
-  padding: 10px 16px;
-  color: white;
+  padding: 10px 18px;
   background-color: #444;
-  border-radius: 4px;
+  color: #fff;
+  border-radius: 6px;
+  transition: background-color 0.2s ease;
+  font-weight: 500;
 }
 
-.nav-links a:hover {
-  background-color: #555;
+.nav-links li a:hover {
+  background-color: #666;
 }
 
-/* Responsive styles */
+/* Mobile styles */
 @media (max-width: 768px) {
   .menu-toggle {
     display: block;
@@ -68,29 +78,35 @@ body {
 
   .nav-links {
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
     position: fixed;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    background: #222;
+    inset: 0;
+    background-color: rgba(20, 20, 20, 0.98);
     transform: translateY(-100%);
     opacity: 0;
-    transition: 0.3s ease;
-    z-index: 999;
-    padding-top: 80px;
-    align-items: center;
-    gap: 20px;
+    pointer-events: none;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    z-index: 1000;
   }
 
   .nav-links.active {
     transform: translateY(0);
     opacity: 1;
+    pointer-events: auto;
   }
 
-  .nav-links a {
-    font-size: 1.5rem;
+  .nav-links li a {
+    font-size: 1.6rem;
+    padding: 20px;
     background: none;
-    padding: 12px 24px;
+    border-radius: 0;
+    width: 100%;
+    text-align: center;
   }
+}
+
+/* Main content spacing */
+main {
+  padding-top: 24px;
 }
