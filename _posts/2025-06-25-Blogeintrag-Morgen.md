@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Morgen"
+title: "International General Insurance (IGIC)"
 ---
 
-# Morgen
+# International General Insurance (IGIC)
 Da ist cool

@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Welcome to My Blog"
+title: "Markel"
 ---
-
 
 # Investment thesis
 Markel Group Inc. (MKL) is a financial holding, which runs US Property & Casualty (P&C) specialty insurance operations and performs investments in a concentrated portfolio of wholly or partially owned publicly traded and private companies. The more accurate definition of the company according to its current CEO Tom Gayner is a ‘family office, which happened to be a public company’.
