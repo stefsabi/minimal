@@ -19,7 +19,7 @@ All in all, MKL emerged as an economic engine with autonomy-trust culture and di
 ## Multi-decade compounder
 Markel started in 1930, after two generations of family ownership, the company went public in 1986 priced at ca. $8 with market cap of ca. $30m. Over time, the company has transformed itself from a small local insurer of jitney buses to the top three largest US surplus insurance business with some international operations (see [Market Segment Report - U.S. Surplus Lines, A.M. Best](https://www3.ambest.com/ambv/sales/bwpurchase.aspx?record_code=330137&AltSrc=22).
 
-![Image](/assets/img/941237cc-7319-413d-aa14-c7e5a29f36bf_977x638.png)
+![Image](/assets/img/E&S_insurance_market.png)
 
 By year-end 2023, market cap reached close to $19bn, that is an impressive compound annual return of ca. 14% since the IPO. As outlined in the below, MKL managed to outperform the market by 3%-pts since inception.
 
