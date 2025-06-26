@@ -1,17 +1,17 @@
-
-
-
-
-
-
-
-
 /* Reset and base */
 body {
   margin: 0;
   font-family: 'Segoe UI', Roboto, sans-serif;
   background-color: #f4f4f7;
   color: #333;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1em auto;
+  box-sizing: border-box;
 }
 
 .container {
@@ -176,10 +176,3 @@ main {
   }
 }
 
-.img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 1em auto;
-  box-sizing: border-box;
-}
