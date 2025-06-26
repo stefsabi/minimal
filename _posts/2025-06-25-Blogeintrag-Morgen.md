@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "International General Insurance (IGIC)"
+title: "Mein Beispiel-Post"
 ---
 
-# International General Insurance (IGIC)
-Da ist cool
+Hier ist ein Bild direkt aus dem assets-Ordner:
+
+![Insurance Chart]({{ '/assets/img/ES_insurance_market.png' | relative_url }})
