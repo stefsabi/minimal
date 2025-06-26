@@ -176,7 +176,7 @@ main {
   }
 }
 
-.post-content img, article img {
+.blog-content img, article img {
   max-width: 100%;
   height: auto;
   display: block;
