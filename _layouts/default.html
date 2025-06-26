@@ -1,22 +1,45 @@
-<header>
-  <nav class="navbar">
-    <div class="logo">MySite</div>
-    <div class="menu-toggle" onclick="toggleMenu()">☰</div>
-    <ul class="nav-links" id="navLinks">
-      <li><a href="{{ '/' | relative_url }}">Home</a></li>
-      <li><a href="{{ '/about/' | relative_url }}">About</a></li>
-      <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
-      <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
-    </ul>
-  </nav>
-</header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <nav class="navbar">
+        <div class="logo">MySite</div>
+        <div class="menu-toggle" onclick="toggleMenu()">☰</div>
+        <ul class="nav-links" id="navLinks">
+          <li><a href="{{ '/' | relative_url }}">Home</a></li>
+          <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+          <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+          <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
+        </ul>
+      </nav>
+    </header>
 
-<main>
-  {{ content }}
-</main>
+    <main>
+      {{ content }}
+    </main>
+  </div>
 
-<script>
-  function toggleMenu() {
-    document.getElementById('navLinks').classList.toggle('active');
-  }
-</script>
+  <script>
+    function toggleMenu() {
+      const menu = document.getElementById("navLinks");
+      menu.classList.toggle("active");
+    }
+
+    // Optional: Close menu when clicking a link
+    document.addEventListener("DOMContentLoaded", () => {
+      document.querySelectorAll("#navLinks a").forEach(link => {
+        link.addEventListener("click", () => {
+          document.getElementById("navLinks").classList.remove("active");
+        });
+      });
+    });
+  </script>
+</body>
+</html>
