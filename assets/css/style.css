@@ -1,0 +1,278 @@
+
+
+/* Reset and base */
+body {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  background-color: #f4f7f6;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1em auto;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1, h2, h3, h4 {
+  font-weight: 700;
+  color: #2d2d2d;
+  margin-bottom: 15px;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.75rem;
+}
+
+h4 {
+  font-size: 1.5rem;
+}
+
+p {
+  font-size: 1rem;
+  margin-bottom: 20px;
+  color: #555;
+}
+
+/* Blockquote Styling */
+blockquote {
+  font-style: italic;
+  color: #333;
+  border-left: 4px solid #4e73df;
+  padding: 10px 20px;
+  margin: 20px 0;
+  background-color: #f9f9f9;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+blockquote p {
+  margin: 0;
+}
+
+/* Blockquote citation */
+blockquote footer {
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: #555;
+  margin-top: 10px;
+}
+
+
+/* Navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1c1c1e;
+  padding: 14px 24px;
+  border-radius: 10px;
+}
+
+.logo {
+  color: #fff;
+  font-weight: 600;
+  font-size: 1.4rem;
+  letter-spacing: 0.4px;
+}
+
+.menu-toggle {
+  display: none;
+  font-size: 26px;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+/* Nav links */
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li a {
+  text-decoration: none;
+  padding: 8px 16px;
+  background-color: #2d2d2f;
+  color: #f0f0f0;
+  border-radius: 6px;
+  transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+  font-weight: 500;
+}
+
+.nav-links li a:hover {
+  background-color: #444446;
+  color: #ffffff;
+}
+
+/* Mobile styles */
+@media (max-width: 768px) {
+  .menu-toggle {
+    display: block;
+  }
+
+  .nav-links {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    inset: 0;
+    background-color: rgba(10, 10, 10, 0.98);
+    transform: translateY(-100%);
+    opacity: 0;
+    pointer-events: none;
+    transition: transform 0.35s ease, opacity 0.35s ease;
+    z-index: 1000;
+  }
+
+  .nav-links.active {
+    transform: translateY(0);
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  .nav-links li a {
+    font-size: 1.5rem;
+    padding: 18px;
+    background: none;
+    border-radius: 0;
+    width: 100%;
+    text-align: center;
+  }
+}
+
+/* Main content spacing */
+main {
+  padding-top: 32px;
+}
+
+.contact-form {
+  margin-top: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.contact-form .form-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+
+.contact-form .form-group {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-width: 200px;
+}
+
+.contact-form label {
+  margin-bottom: 6px;
+  font-weight: 500;
+  color: #2c2c2c;
+}
+
+.contact-form input,
+.contact-form textarea {
+  padding: 12px 14px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  font-size: 1rem;
+  background-color: #ffffff;
+  transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  outline: none;
+  border-color: #4b5563;
+  box-shadow: 0 0 0 3px rgba(75, 85, 99, 0.1);
+}
+
+.contact-form button {
+  align-self: flex-start;
+  padding: 12px 22px;
+  font-size: 1rem;
+  background-color: #1f2937;
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background-color 0.25s ease-in-out;
+}
+
+.contact-form button:hover {
+  background-color: #374151;
+}
+
+@media (max-width: 600px) {
+  .form-row {
+    flex-direction: column;
+  }
+}
+
+
+/* Links */
+a {
+  color: #4e73df;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+a:hover {
+  color: #1d55bb;
+  text-decoration: underline;
+}
+
+/* Buttons */
+button {
+  background-color: #4e73df;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #3551d0;
+}
+
+button:hover {
+  background-color: #3551d0;
+}
+
+/* Footer */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+footer p {
+  font-size: 0.9rem;
+}
