@@ -177,3 +177,14 @@ main {
     flex-direction: column;
   }
 }
+
+blockquote {
+  font-style: italic;
+  color: #333;
+  border-left: 4px solid #4e73df;
+  padding: 10px 20px;
+  margin: 20px 0;
+  background-color: #f9f9f9;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
