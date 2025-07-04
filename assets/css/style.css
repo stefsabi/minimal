@@ -19,7 +19,7 @@ img {
 }
 
 .container {
-  max-width: 900px;
+  max-width: 1200px; /* or a larger value */
   margin: 48px auto;
   background: #ffffff;
   padding: 32px;
