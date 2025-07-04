@@ -4,7 +4,7 @@ title: "Markel"
 ---
 
 # Markel
-Multi-decade compounder with remarkable culture and attractive returns
+> Multi-decade compounder with remarkable culture and attractive returns
 
 - Company name: Markel Group Inc.
 - ISIN: US5705351048
@@ -158,7 +158,7 @@ Compared to its core peers in the E&S market, MKL is valued ca. 1.4x and MCAP/EB
 
 ![Image]({{ '/assets/img/e_s_insurers_by_direct_premiums_written.png' | relative_url }})
 
-Horizontal axis: P/BV based on May 10, 2024 (Source: Tikr.com). Vertical axis: 5y average combined ratio. Bubble size: DPW (Source: S&P Global).
+*Horizontal axis: P/BV based on May 10, 2024 (Source: Tikr.com). Vertical axis: 5y average combined ratio. Bubble size: DPW (Source: S&P Global).*
 
 In my view MKL is well positioned to withstand the temporary setbacks and steer its direction towards sustainable and profitable long-term growth. What gives me so much confidence? Well, the insurance cycles happens to turn. Sooner or later the US Casualty business will be re-priced by the industry and MKL in particular. Also, it is about MKL’s remarkable culture and structural advantage of being a multi-decade capital allocator with embedded diversity of cashflow streams. Plus, so far MKL managed to earn attractive long-term returns from all sources combined: Underwriting, Investments and Markel Ventures - de-facto getting ‘cost-free’ insurance float and earning premium on other operations. If the market does not get the beat, I am happy to see more share buy backs coming our way as long as the business continues to be undervalued.
 
