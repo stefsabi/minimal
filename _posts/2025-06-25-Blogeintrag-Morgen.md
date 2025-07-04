@@ -92,7 +92,7 @@ Let’s turn to the investment side of MKL business. Similar to traditional insu
 
 Remarkably, since IPO in 1986 MKL’s equity portfolio outperformed the S&P 500 total return index. See the annual investment return breakdown by asset category in the table below.
 
-![Image]({{ '/assets/img/mkl_equity_portfolio.png' | relative_url }})
+![Image]({{ '/assets/img/mkl_equity_portfolio.jpg' | relative_url }})
 
 #### Markel Ventures
 
@@ -104,7 +104,7 @@ Markel Ventures’ contribution to the group has drastically increased over time
 
 In terms of operating performance, Markel Ventures earned an operating profit of $0.3bn in 2022, which has nicely grown in the past 10 years, on average of ca. 24% per annum. Since 2017, Markel Ventures earned an average 9% on equity capital as presented in the table below.
 
-![Image]({{ '/assets/img/markel_ventures.png' | relative_url }})
+![Image]({{ '/assets/img/markel_ventures.jpg' | relative_url }})
 
 As a side note on accounting, a portion of Markel Ventures with a non-controlling interest stake (typically 20-50% ownership) and significant control is not consolidated under US GAAP.  It appears as equity method investments in ‘Other assets’ recorded at historical cost, no mark-to-market adjustments are flowing through a balance sheet. As a result, the MKL’s private equity investments seem to be understated. For example, book value of a general managing agent Hagerty acquired in 2019 amounted ca. $0.2bn, while market value of this public equity stake amounted $0.65bn at the year-end 2022. This results in off-balance sheet unrealised investment gains of ca. $0.45bn. Hence, US GAAP shareholders’ equity does not fully reflect the economic value of MKL and manual adjustments to book value may be not without a merit.
 
