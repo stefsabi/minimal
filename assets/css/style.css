@@ -76,13 +76,11 @@ p {
   justify-content: space-between;
   align-items: center;
   padding: 1.5rem 2rem;
-  background-color: #ffffff;
-  border-bottom: 1px solid #f0f0f0;
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #e9ecef;
   position: sticky;
   top: 0;
   z-index: 100;
-  backdrop-filter: blur(10px);
-  background-color: rgba(255, 255, 255, 0.95);
 }
 
 .logo {
@@ -748,13 +746,14 @@ li {
     justify-content: center;
     position: fixed;
     inset: 0;
-    background-color: rgba(255, 255, 255, 0.98);
+    background-color: #f8f9fa;
     transform: translateY(-100%);
     opacity: 0;
     pointer-events: none;
     transition: transform 0.3s ease, opacity 0.3s ease;
     z-index: 1000;
-    gap: 1rem;
+    gap: 1.5rem;
+    border-right: 1px solid #e9ecef;
   }
 
   .nav-links.active {
@@ -765,10 +764,24 @@ li {
 
   .nav-links li a {
     font-size: 1.25rem;
-    padding: 1rem;
+    padding: 1.5rem 2rem;
     border-bottom: none;
-    width: 100%;
+    width: 80%;
+    max-width: 300px;
     text-align: center;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    color: #495057;
+    font-weight: 600;
+    transition: all 0.2s ease;
+  }
+
+  .nav-links li a:hover {
+    background-color: #e9ecef;
+    color: #212529;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
   }
 
   .navbar {
