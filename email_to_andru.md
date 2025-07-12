@@ -41,7 +41,7 @@ ich hoffe, es geht dir gut! Ich habe eine komplette Website für Mariya Messerli
 3. **Deployment:** Live-Schaltung der Website
 4. **Domain:** Optionale eigene Domain einrichten
 
-**Website-URL:** [GitHub Repository Link]
+**Website-URL:** https://stefsabi.github.io/minimal/
 
 Kannst du dir das Design anschauen und mir deine Gedanken dazu mitteilen? Ich bin offen für alle Anpassungen und Verbesserungsvorschläge.
 

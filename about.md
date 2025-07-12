@@ -11,7 +11,7 @@ permalink: /about/
       <p class="about-subtitle">Investor, Financial Professional & Lifelong Learner</p>
     </div>
     <div class="about-hero-image">
-      <img src="/assets/img/mariya-messerli.jpg" alt="Mariya Messerli" class="about-profile-image">
+      <img src="{{ '/assets/img/mariya-messerli.jpg' | relative_url }}" alt="Mariya Messerli" class="about-profile-image">
     </div>
   </div>
 </div>
