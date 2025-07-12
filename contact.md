@@ -4,10 +4,56 @@ title: Contact
 permalink: /contact/
 ---
 
-<h1>Contact Me</h1>
+<div class="contact-hero">
+  <div class="contact-hero-content">
+    <h1>Get in Touch</h1>
+    <p class="contact-subtitle">Let's discuss investment opportunities and market insights</p>
+  </div>
+</div>
 
-<p>Feel free to reach out via LinkedIn:</p>
+<div class="contact-content">
+  <div class="contact-intro">
+    <p>I'm always interested in connecting with fellow investors, entrepreneurs, and professionals in the financial industry. Whether you have an investment opportunity to discuss, want to share market insights, or simply want to connect, I'd love to hear from you.</p>
+  </div>
 
-<a href="https://ch.linkedin.com/in/mariya-messerli-1049aa219" target="_blank" rel="noopener noreferrer">
-  Visit my LinkedIn profile
-</a>
+  <div class="contact-methods">
+    <div class="contact-card">
+      <div class="contact-icon">
+        <svg class="linkedin-icon" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+        </svg>
+      </div>
+      <h3>LinkedIn</h3>
+      <p>Connect with me professionally and stay updated with my latest insights and market analysis.</p>
+      <a href="https://ch.linkedin.com/in/mariya-messerli-1049aa219" target="_blank" rel="noopener noreferrer" class="contact-link">
+        Connect on LinkedIn →
+      </a>
+    </div>
+
+    <div class="contact-card">
+      <div class="contact-icon">
+        <svg class="briefcase-icon" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M20 6h-4V4c0-1.11-.89-2-2-2h-4c-1.11 0-2 .89-2 2v2H4c-1.11 0-1.99.89-1.99 2L2 19c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V8c0-1.11-.89-2-2-2zm-6 0h-4V4h4v2z"/>
+        </svg>
+      </div>
+      <h3>Investment Inquiries</h3>
+      <p>For serious investment opportunities, particularly in P&C insurance, technology, or global markets.</p>
+      <p class="contact-note">Please reach out via LinkedIn with detailed information about your opportunity.</p>
+    </div>
+
+    <div class="contact-card">
+      <div class="contact-icon">
+        <svg class="handshake-icon" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
+        </svg>
+      </div>
+      <h3>Professional Network</h3>
+      <p>I'm open to connecting with professionals in reinsurance, rating agencies, and financial services.</p>
+      <p class="contact-note">Let's explore potential collaborations and knowledge sharing.</p>
+    </div>
+  </div>
+
+  <div class="contact-footer">
+    <p><strong>Based in Switzerland</strong> • Available for discussions on global investment opportunities</p>
+  </div>
+</div>

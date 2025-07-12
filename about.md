@@ -4,20 +4,75 @@ title: About
 permalink: /about/
 ---
 
-# About
+<div class="about-hero">
+  <div class="about-hero-content">
+    <div class="about-hero-text">
+      <h1>About Mariya</h1>
+      <p class="about-subtitle">Investor, Financial Professional & Lifelong Learner</p>
+    </div>
+    <div class="about-hero-image">
+      <img src="/assets/img/mariya-messerli.jpg" alt="Mariya Messerli" class="about-profile-image">
+    </div>
+  </div>
+</div>
 
-## Who am I?
-Hi, I am Mariya Messerli, an independent investor, a life-long learner, a cheerful thinker and a lucky mother of two young kids. After quitting my corporate job at the end of 2022, I’ve decided to fully dedicate myself to investment profession and family. My investment philosophy is global concentrated equity with long-term focus compounding value over decades. Prior to turning my investing passion into a profession, I had a decade of experience working in various corporate finance roles for Swiss Re, the top tear global reinsurer. As a result, my natural interest and past experience is rooted in the (re-)insurance industry. Over time, I aim to expand my circle of competence beyond the sector and master my investing process to contribute to wealth and wellbeing of my family, friends, and people who wish to come along. Please note, I am not a professional asset advisor and/or asset manager.
+<div class="about-content">
+  <div class="about-intro">
+    <p class="about-lead">I am an investor managing my own family funds, based in Switzerland. My investment philosophy is global and long-term focused with aim to compound value over decades.</p>
+  </div>
 
-## Why?
-The purpose of this platform is to share some thoughts on value investing, exchange with everyone who is interested and add value to the broader investment community. At times investing feels like a lonely place for introverts like me who engage into fundamental research and analysis day in and day out. Nevertheless, I am confident that there is bright and stimulating community of passionate investors who are willing to engage, learn from each other and have fun along the way. 
+  <div class="about-sections">
+    <div class="about-section">
+      <div class="about-section-icon">
+        <svg class="experience-icon" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
+        </svg>
+      </div>
+      <div class="about-section-content">
+        <h3>Professional Experience</h3>
+        <p>Prior to turning my investing passion into a profession, I had a decade of experience working in various corporate finance roles in <strong>Swiss Re</strong>, the top tier global reinsurer.</p>
+      </div>
+    </div>
 
-## What?
-Once in a while I plan to publish investment research on companies of my interest. Since investing is not my only focus (hello kiddos!) I will do my best to post as much content as possible. For now, it is an experiment platform to pursue my passion, build new relationships and inspire other people to do so!
+    <div class="about-section">
+      <div class="about-section-icon">
+        <svg class="education-icon" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M12 3L1 9l4 2.18v6L12 21l7-3.82v-6l2-1.09v6h2V9L12 3zm6.82 6L12 12.72 5.18 9 12 5.28 18.82 9zM17 15.99l-5 2.73-5-2.73v-3.72L12 15l5-2.73v3.72z"/>
+        </svg>
+      </div>
+      <div class="about-section-content">
+        <h3>Education & Development</h3>
+        <p>I hold a <strong>MSc degree in Accounting & Finance</strong> from Umeå University, Sweden. Most recently, I followed the Value Investing Program of <strong>Stanford University</strong> and the executive Value Investing Program of <strong>Columbia University</strong>.</p>
+      </div>
+    </div>
 
-So if you are interested in joining me, please get in touch by subscribing to the blog and engaging in the comment section.
+    <div class="about-section">
+      <div class="about-section-icon">
+        <svg class="interests-icon" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+        </svg>
+      </div>
+      <div class="about-section-content">
+        <h3>Areas of Interest</h3>
+        <p>I am interested in learning more about <strong>P&C (re-)insurance</strong>, <strong>rating agencies</strong>, <strong>serial acquirers</strong>, <strong>cloud computing</strong>, <strong>digital payments</strong> and <strong>online retail</strong>.</p>
+      </div>
+    </div>
 
+    <div class="about-section">
+      <div class="about-section-icon">
+        <svg class="personal-icon" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/>
+        </svg>
+      </div>
+      <div class="about-section-content">
+        <h3>Personal</h3>
+        <p>I am a life-long learner, a cheerful thinker and a lucky mother of two young kids. If you think you can teach me something, please <a href="/contact/">reach out</a>.</p>
+      </div>
+    </div>
+  </div>
 
-Warm welcome!
-
-Mariya 
+  <div class="about-cta">
+    <p>Ready to discuss investment opportunities or share insights?</p>
+    <a href="/contact/" class="cta-button">Get in Touch</a>
+  </div>
+</div> 

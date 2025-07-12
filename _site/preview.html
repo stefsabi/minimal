@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Simple Jekyll Site - Preview</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <nav class="navbar">
+        <div class="logo">Messerli</div>
+        <div class="menu-toggle" onclick="toggleMenu()">☰</div>
+        <ul class="nav-links" id="navLinks">
+          <li><a href="#home">Home</a></li>
+          <li><a href="#blog">Blog</a></li>
+          <li><a href="#contact">Contact</a></li>
+          <li><a href="#about">About</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <h1>Welcome</h1>
+      
+      <p>Das isch Jekyll</p>
+      
+      <h2>Latest Research</h2>
+      
+      <ul class="blog-list">
+        <li>
+          <a href="#">International General Insurance (IGIC)</a>
+          <small>December 2024</small>
+          <div class="tags">
+            <span class="tag">investment</span>
+            <span class="tag">deep-dive</span>
+          </div>
+        </li>
+        <li>
+          <a href="#">Kinsale Capital Group</a>
+          <small>July 2024</small>
+          <div class="tags">
+            <span class="tag">insurance</span>
+            <span class="tag">analysis</span>
+          </div>
+        </li>
+        <li>
+          <a href="#">Markel Ventures</a>
+          <small>July 2025</small>
+          <div class="tags">
+            <span class="tag">ventures</span>
+            <span class="tag">diversified</span>
+          </div>
+        </li>
+      </ul>
+      
+      <h2>Navigation Setup - Alle Seiten Lokal</h2>
+      
+      <ul>
+        <li><strong>Home</strong> → Lokale Jekyll-Seite (index.md)</li>
+        <li><strong>Blog</strong> → Lokale Jekyll-Seite (blog.md)</li>
+        <li><strong>Contact</strong> → Lokale Jekyll-Seite (contact.md)</li>
+        <li><strong>About</strong> → Lokale Jekyll-Seite (about.md)</li>
+      </ul>
+      
+      <h3>Seiten-Übersicht</h3>
+      
+      <ul>
+        <li><strong>Home</strong> - "Welcome" und "Das isch Jekyll"</li>
+        <li><strong>Blog</strong> - Liste aller Blog-Posts mit Tags</li>
+        <li><strong>Contact</strong> - LinkedIn Kontaktinformationen</li>
+        <li><strong>About</strong> - Mariya Messerli's Profil und Hintergrund</li>
+      </ul>
+      
+      <h3>Design Features</h3>
+      
+      <ul>
+        <li><strong>Minimalist Design</strong> - Clean, uncluttered layout that focuses on content</li>
+        <li><strong>Professional Typography</strong> - Inter font family for excellent readability</li>
+        <li><strong>Sophisticated Color Palette</strong> - Black, white, and subtle grays</li>
+        <li><strong>Responsive Layout</strong> - Perfect on all devices</li>
+        <li><strong>Premium Feel</strong> - Suitable for high-end financial services</li>
+      </ul>
+      
+      <blockquote>
+        <p>This is a professional investment blog focused on insurance industry analysis and value investing.</p>
+        <footer>— Mariya Messerli</footer>
+      </blockquote>
+    </main>
+  </div>
+
+  <script>
+    function toggleMenu() {
+      const menu = document.getElementById("navLinks");
+      menu.classList.toggle("active");
+    }
+
+    document.addEventListener("DOMContentLoaded", () => {
+      document.querySelectorAll("#navLinks a").forEach(link => {
+        link.addEventListener("click", () => {
+          document.getElementById("navLinks").classList.remove("active");
+        });
+      });
+    });
+  </script>
+</body>
+</html> 

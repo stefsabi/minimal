@@ -25,22 +25,13 @@
     </header>
 
     <main>
-      {{ content }}
+      <article class="post">
+        <h1>{{ page.title }}</h1>
+        <p class="post-meta">{{ page.date | date: "%B %-d, %Y" }}{% if page.tags %} | Tags: {% for tag in page.tags %}<span class="tag">{{ tag }}</span>{% endfor %}{% endif %}</p>
+        <a href="/blog/" class="back-button">← Back to Blog</a>
+        {{ content }}
+      </article>
     </main>
-    
-    <footer class="footer">
-      <div class="footer-content">
-        <div class="footer-info">
-          <p>&copy; 2025 Mariya Messerli. All rights reserved.</p>
-        </div>
-        <div class="footer-links">
-          <a href="/">Home</a>
-          <a href="/about/">About</a>
-          <a href="/blog/">Blog</a>
-          <a href="/contact/">Contact</a>
-        </div>
-      </div>
-    </footer>
   </div>
 
   <script>
@@ -48,8 +39,6 @@
       const menu = document.getElementById("navLinks");
       menu.classList.toggle("active");
     }
-
-    // Optional: Close menu when clicking a link
     document.addEventListener("DOMContentLoaded", () => {
       document.querySelectorAll("#navLinks a").forEach(link => {
         link.addEventListener("click", () => {
@@ -59,4 +48,4 @@
     });
   </script>
 </body>
-</html>
+</html> 

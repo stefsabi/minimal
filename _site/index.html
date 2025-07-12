@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Home</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <nav class="navbar">
+        <div class="logo">Mariya Messerli</div>
+        <div class="menu-toggle" onclick="toggleMenu()">☰</div>
+        <ul class="nav-links" id="navLinks">
+          <li><a href="/">Home</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/contact/">Contact</a></li>
+          <li><a href="/about/">About</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <div class="hero-section">
+  <div class="hero-content">
+    <div class="hero-text">
+      <h1>Mariya Messerli</h1>
+      <p class="hero-subtitle">Investor &amp; Financial Professional</p>
+      <p class="hero-description">
+        I am an investor managing my own family funds, based in Switzerland. 
+        My investment philosophy is global and long-term focused with aim to compound value over decades.
+      </p>
+      <div class="hero-cta">
+        <a href="/about/" class="cta-button">Learn More</a>
+        <a href="/blog/" class="cta-button secondary">Read Blog</a>
+      </div>
+    </div>
+    <div class="hero-image">
+      <img src="/assets/img/mariya-messerli.jpg" alt="Mariya Messerli" class="profile-image" />
+    </div>
+  </div>
+</div>
+
+<div class="featured-section">
+  <h2>Latest Insights</h2>
+  <div class="featured-posts">
+    
+      <div class="featured-post">
+        <h3><a href="/2024/12/20/IGIC.html">International General Insurance (IGIC)</a></h3>
+        <p class="post-date">December 20, 2024</p>
+        
+          <div class="tags">
+            
+              <span class="tag">investment</span>
+            
+              <span class="tag">deep-dive</span>
+            
+          </div>
+        
+      </div>
+    
+      <div class="featured-post">
+        <h3><a href="/2024/07/26/Kinsale.html">Kinsale</a></h3>
+        <p class="post-date">July 26, 2024</p>
+        
+          <div class="tags">
+            
+              <span class="tag">investment</span>
+            
+              <span class="tag">deep-dive</span>
+            
+          </div>
+        
+      </div>
+    
+      <div class="featured-post">
+        <h3><a href="/2024/07/04/Markel.html">Markel</a></h3>
+        <p class="post-date">July 4, 2024</p>
+        
+          <div class="tags">
+            
+              <span class="tag">investment</span>
+            
+              <span class="tag">deep-dive</span>
+            
+          </div>
+        
+      </div>
+    
+  </div>
+</div>
+
+    </main>
+    
+    <footer class="footer">
+      <div class="footer-content">
+        <div class="footer-info">
+          <p>&copy; 2025 Mariya Messerli. All rights reserved.</p>
+        </div>
+        <div class="footer-links">
+          <a href="/">Home</a>
+          <a href="/about/">About</a>
+          <a href="/blog/">Blog</a>
+          <a href="/contact/">Contact</a>
+        </div>
+      </div>
+    </footer>
+  </div>
+
+  <script>
+    function toggleMenu() {
+      const menu = document.getElementById("navLinks");
+      menu.classList.toggle("active");
+    }
+
+    // Optional: Close menu when clicking a link
+    document.addEventListener("DOMContentLoaded", () => {
+      document.querySelectorAll("#navLinks a").forEach(link => {
+        link.addEventListener("click", () => {
+          document.getElementById("navLinks").classList.remove("active");
+        });
+      });
+    });
+  </script>
+</body>
+</html>
