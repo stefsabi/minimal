@@ -18,7 +18,7 @@ title: Home
       </div>
     </div>
     <div class="hero-image">
-      <img src="{{ '/assets/img/mariya-messerli.jpg' | relative_url }}" alt="Mariya Messerli" class="profile-image">
+      <img src="/minimal/assets/img/mariya-messerli.jpg" alt="Mariya Messerli" class="profile-image">
     </div>
   </div>
 </div>
