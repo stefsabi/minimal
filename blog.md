@@ -37,7 +37,7 @@ permalink: /blog/
             </div>
           {% endif %}
           
-          <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read Article →</a>
+          <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read Article → (Fixed)</a>
         </div>
       </article>
     {% endfor %}
