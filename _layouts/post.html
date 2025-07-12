@@ -28,7 +28,7 @@
       <article class="post">
         <h1>{{ page.title }}</h1>
         <p class="post-meta">{{ page.date | date: "%B %-d, %Y" }}{% if page.tags %} | Tags: {% for tag in page.tags %}<span class="tag">{{ tag }}</span>{% endfor %}{% endif %}</p>
-        <a href="/blog/" class="back-button">← Back to Blog</a>
+        <a href="/minimal/blog/" class="back-button">← Back to Blog</a>
         {{ content }}
       </article>
     </main>

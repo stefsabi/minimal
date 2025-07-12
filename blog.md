@@ -44,6 +44,6 @@ permalink: /blog/
   </div>
 
   <div class="blog-footer">
-    <p>For investment inquiries or discussions, please <a href="/contact/">get in touch</a>.</p>
+    <p>For investment inquiries or discussions, please <a href="/minimal/contact/">get in touch</a>.</p>
   </div>
 </div>

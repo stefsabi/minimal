@@ -13,8 +13,8 @@ title: Home
         My investment philosophy is global and long-term focused with aim to compound value over decades.
       </p>
       <div class="hero-cta">
-        <a href="/about/" class="cta-button">Learn More</a>
-        <a href="/blog/" class="cta-button secondary">Read Blog</a>
+        <a href="/minimal/about/" class="cta-button">Learn More</a>
+        <a href="/minimal/blog/" class="cta-button secondary">Read Blog</a>
       </div>
     </div>
     <div class="hero-image">

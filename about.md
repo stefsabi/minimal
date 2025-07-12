@@ -66,13 +66,13 @@ permalink: /about/
       </div>
       <div class="about-section-content">
         <h3>Personal</h3>
-        <p>I am a life-long learner, a cheerful thinker and a lucky mother of two young kids. If you think you can teach me something, please <a href="/contact/">reach out</a>.</p>
+        <p>I am a life-long learner, a cheerful thinker and a lucky mother of two young kids. If you think you can teach me something, please <a href="/minimal/contact/">reach out</a>.</p>
       </div>
     </div>
   </div>
 
   <div class="about-cta">
     <p>Ready to discuss investment opportunities or share insights?</p>
-    <a href="/contact/" class="cta-button">Get in Touch</a>
+    <a href="/minimal/contact/" class="cta-button">Get in Touch</a>
   </div>
 </div> 
