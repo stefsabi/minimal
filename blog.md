@@ -21,7 +21,7 @@ permalink: /blog/
       <article class="blog-card">
         <div class="blog-card-content">
           <div class="blog-card-header">
-            <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+            <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
             <time class="blog-date">{{ post.date | date: "%B %-d, %Y" }}</time>
           </div>
           
@@ -37,7 +37,7 @@ permalink: /blog/
             </div>
           {% endif %}
           
-          <a href="{{ post.url | relative_url }}" class="read-more">Read Article →</a>
+          <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read Article →</a>
         </div>
       </article>
     {% endfor %}
